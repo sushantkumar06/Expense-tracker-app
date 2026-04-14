@@ -1,17 +1,29 @@
-# flutter_application_2
+# 📱 Money Manager – Expense Tracker App
 
-A new Flutter project.
+A simple and efficient expense tracking mobile application built using **Flutter** and **GetX**.  
+This app allows users to manage their income and expenses with real-time balance updates and a clean UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ➕ Add Income and Expense transactions  
+- 📊 Real-time balance updates  
+- 💰 Track Available Balance, Total Income, and Total Expense  
+- 📝 Add notes and titles for each transaction  
+- ⚡ Reactive UI using GetX (`Obx`)  
+- 🧭 Navigation using GetX  
+- 🎯 Minimal and clean user interface  
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧠 Tech Stack
+
+- **Flutter** – UI Framework  
+- **Dart** – Programming Language  
+- **GetX** – State Management & Navigation  
+- **Material Design** – UI Components  
+
+---
+
+## 📂 Project Structure
